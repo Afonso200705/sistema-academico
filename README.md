@@ -1,6 +1,2 @@
-# sistema-academico
-
-
-
-1.0
+Projeto feito pela branch main
 
